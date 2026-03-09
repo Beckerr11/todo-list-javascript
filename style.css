@@ -1,0 +1,26 @@
+body{
+
+font-family: Arial;
+text-align:center;
+
+}
+
+li{
+
+list-style:none;
+margin:10px;
+
+}
+
+.done{
+
+text-decoration: line-through;
+color:gray;
+
+}
+
+button{
+
+margin-left:10px;
+
+}

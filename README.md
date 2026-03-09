@@ -6,6 +6,8 @@ Lista de tarefas simples desenvolvida com HTML e JavaScript.
 
 - Adicionar tarefas
 - Interface simples
+- marcar tarefa como concluída
+- remover tarefas
 
 ## 🚀 Como executar
 
