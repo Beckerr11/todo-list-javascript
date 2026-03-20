@@ -1,29 +1,29 @@
-# 📋 Todo List JavaScript
+# Taskboard Lite
 
-Lista de tarefas simples desenvolvida com HTML e JavaScript.
+Taskboard Lite is a polished task management demo built with HTML, CSS, and vanilla JavaScript.
 
-## 📌 Funcionalidades
+## Live demo
 
-- Adicionar tarefas
-- Interface simples
-- marcar tarefa como concluída
-- remover tarefas
+https://todo-list-javascript-omega.vercel.app
 
-## 🚀 Como executar
+## Highlights
 
-Abra o arquivo:
+- Local task persistence with `localStorage`
+- Open and completed filters
+- Progress tracking and quick stats
+- Responsive layout with accessible interactions
+- Zero-build setup for fast preview and portfolio use
 
-```
-index.html
-```
-
-no navegador.
-
-## 🛠 Tecnologias
+## Stack
 
 - HTML
+- CSS
 - JavaScript
 
-## 👨‍💻 Autor
+## Run locally
 
-Douglas Aparecido da Silva
+Open `index.html` directly in the browser, or serve the folder with a static server.
+
+## Author
+
+Douglas Aparecido Silva
