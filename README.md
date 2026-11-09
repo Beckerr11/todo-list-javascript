@@ -26,4 +26,4 @@ Open `index.html` directly in the browser, or serve the folder with a static ser
 
 ## Author
 
-Douglas Aparecido Silva
+Becker
